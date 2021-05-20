@@ -13,6 +13,7 @@ Hello everyone!
 
 ### Tabular Playground 
 [Tabular Playground April 2021](https://nbviewer.jupyter.org/github/DJcarlo23/Data-Science/blob/main/ML/Classification/Tabular%20Payground%20Kaggle/Tabular%20Playground%20April%202021/Titanic%20Tabular%20Playground.ipynb) <br>
+[Tabular Playground May 2021](https://nbviewer.jupyter.org/github/DJcarlo23/Data-Science/blob/main/ML/Classification/Tabular%20Payground%20Kaggle/Tabular%20Playground%20May%202021/TP-May_full.ipynb) <br>
 
 # Natural Language Processing
 [Disaster Tweets](https://nbviewer.jupyter.org/github/DJcarlo23/Data-Science/blob/main/ML/NLP/Natural%20Language%20Processing%20with%20Disaster%20Tweets/Disaster%20Tweets.ipynb) <br>
