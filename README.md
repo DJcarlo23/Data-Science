@@ -19,10 +19,10 @@ Hello everyone!
 [Disaster Tweets](https://nbviewer.jupyter.org/github/DJcarlo23/Data-Science/blob/main/ML/NLP/Natural%20Language%20Processing%20with%20Disaster%20Tweets/Disaster%20Tweets.ipynb) <br>
 [Fake and real news](https://nbviewer.jupyter.org/github/DJcarlo23/Data-Science/blob/063369e6b0289bd799987d5528c7fd5f265ca2e5/ML/NLP/Fake%20and%20real%20news/Fake%20and%20real%20news.ipynb) <br>
 
+## Regression
+[Stacked Regressions](https://nbviewer.jupyter.org/github/DJcarlo23/Data-Science/blob/main/ML/Regression/Stacked%20Regressions/Stacked%20Regressions.ipynb) <br>
+
 ## Time Series
 [Acea Smart Water Analytics](https://nbviewer.jupyter.org/github/DJcarlo23/Data-Science/blob/main/Time%20Series/Acea%20Smart%20Water%20Analytics/Intro%20to%20Time%20Series%20Forecasting.ipynb) <br>
 [Predict Future Sales](https://nbviewer.jupyter.org/github/DJcarlo23/Data-Science/blob/main/Time%20Series/Predict%20Future%20Sales/Time%20Series%20Sales.ipynb) <br>
-
-## Regression
-[Stacked Regressions](https://nbviewer.jupyter.org/github/DJcarlo23/Data-Science/blob/main/ML/Regression/Stacked%20Regressions/Stacked%20Regressions.ipynb) <br>
 
