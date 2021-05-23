@@ -17,3 +17,4 @@ Hello everyone!
 
 # Natural Language Processing
 [Disaster Tweets](https://nbviewer.jupyter.org/github/DJcarlo23/Data-Science/blob/main/ML/NLP/Natural%20Language%20Processing%20with%20Disaster%20Tweets/Disaster%20Tweets.ipynb) <br>
+[Fake and real news](https://nbviewer.jupyter.org/github/DJcarlo23/Data-Science/blob/063369e6b0289bd799987d5528c7fd5f265ca2e5/ML/NLP/Fake%20and%20real%20news/Fake%20and%20real%20news.ipynb) <br>
