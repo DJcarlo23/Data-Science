@@ -23,4 +23,6 @@ Hello everyone!
 [Acea Smart Water Analytics](https://nbviewer.jupyter.org/github/DJcarlo23/Data-Science/blob/main/Time%20Series/Acea%20Smart%20Water%20Analytics/Intro%20to%20Time%20Series%20Forecasting.ipynb) <br>
 [Predict Future Sales](https://nbviewer.jupyter.org/github/DJcarlo23/Data-Science/blob/main/Time%20Series/Predict%20Future%20Sales/Time%20Series%20Sales.ipynb) <br>
 
+## Regression
+[Stacked Regressions](https://nbviewer.jupyter.org/github/DJcarlo23/Data-Science/blob/main/ML/Regression/Stacked%20Regressions/Stacked%20Regressions.ipynb) <br>
 
