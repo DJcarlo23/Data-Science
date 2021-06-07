@@ -21,6 +21,7 @@ Repository containing portfolio of data science projects completed by me for sel
 
 ## Regression
 [Stacked Regressions](https://nbviewer.jupyter.org/github/DJcarlo23/Data-Science/blob/main/ML/Regression/Stacked%20Regressions/Stacked%20Regressions.ipynb): <br>
+[Car Price](https://nbviewer.jupyter.org/github/DJcarlo23/Data-Science/blob/main/ML/Regression/Car%20Price%20Regression/Car%20Price%20Regression.ipynb): Regression model designed to predict car price. Notebook contains exploratory data analysis with different kinds of correlations between features.  <br>
 
 ## Time Series
 [Acea Smart Water Analytics](https://nbviewer.jupyter.org/github/DJcarlo23/Data-Science/blob/main/Time%20Series/Acea%20Smart%20Water%20Analytics/Intro%20to%20Time%20Series%20Forecasting.ipynb): Water behavior over time. Time series manipulation and analysis. <br>
