@@ -13,7 +13,7 @@ Repository containing portfolio of data science projects completed by me for sel
 
 #### Tabular Playground
 [Tabular Playground April 2021](https://nbviewer.jupyter.org/github/DJcarlo23/Data-Science/blob/main/ML/Classification/Tabular%20Payground%20Kaggle/Tabular%20Playground%20April%202021/Titanic%20Tabular%20Playground.ipynb): Extended variation of the titanic dataset. During work on this dataset I learned how to combine predictions of couple of different models to improve overall prediction accuracy.  <br>
-[Tabular Playground May 2021](https://nbviewer.jupyter.org/github/DJcarlo23/Data-Science/blob/main/ML/Classification/Tabular%20Payground%20Kaggle/Tabular%20Playground%20May%202021/TP-May.ipynb): Testing out UMAP algoryth for dimensionality reduction and 3D visualizations using plotly. <br>
+[Tabular Playground May 2021](https://nbviewer.jupyter.org/github/DJcarlo23/Data-Science/blob/main/ML/Classification/Tabular%20Payground%20Kaggle/Tabular%20Playground%20May%202021/TP-May.ipynb): Testing out UMAP algorithm for dimensionality reduction and 3D visualizations using plotly. <br>
 
 ## Natural Language Processing
 [Disaster Tweets](https://nbviewer.jupyter.org/github/DJcarlo23/Data-Science/blob/main/ML/NLP/Natural%20Language%20Processing%20with%20Disaster%20Tweets/Disaster%20Tweets.ipynb): A classification system designed to decide whether a tweet mentions a disaster or not.<br>
@@ -21,6 +21,7 @@ Repository containing portfolio of data science projects completed by me for sel
 
 ## Regression
 [Stacked Regressions](https://nbviewer.jupyter.org/github/DJcarlo23/Data-Science/blob/main/ML/Regression/Stacked%20Regressions/Stacked%20Regressions.ipynb): <br>
+[Car Price](https://nbviewer.jupyter.org/github/DJcarlo23/Data-Science/blob/main/ML/Regression/Car%20Price%20Regression/Car%20Price%20Regression.ipynb): Regression model designed to predict car price. Notebook contains exploratory data analysis with different kinds of correlations between features.  <br>
 
 ## Time Series
 [Acea Smart Water Analytics](https://nbviewer.jupyter.org/github/DJcarlo23/Data-Science/blob/main/Time%20Series/Acea%20Smart%20Water%20Analytics/Intro%20to%20Time%20Series%20Forecasting.ipynb): Water behavior over time. Time series manipulation and analysis. <br>
